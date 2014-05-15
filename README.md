@@ -2,6 +2,7 @@ amazonS3tools
 =============
 
 This repository contains useful scripts to work with amazon services
+https://github.com/karthikbalu/amazonS3tools/wiki
 
 Step 0:
 Install "npm install aws-sdk"
